@@ -16,3 +16,11 @@ object1[away] = null;
         players[stats] = null;
 
             const stats;
+           stats[number]
+           stats[shoe] 
+           stats[points] 
+           stats[rebounds] 
+           stats[assists] 
+           stats[steals] 
+           stats[blocks] 
+           stats[slamDunks] 
